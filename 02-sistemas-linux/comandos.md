@@ -201,22 +201,22 @@
 
 <h2 id="redes-y-sistema">8. Redes y Sistema</h2>
 <ul>
-  <li><code>shutdown &lt;hora&gt; ["mensaje"]</code>: Apaga el sistema de forma segura.</li>
+  <li><code>shutdown &lt;hora&gt; ["mensaje"]</code>: Apaga el sistema de forma segura.</li><br>
   <img width="75%" alt="image36" src="https://github.com/user-attachments/assets/19254667-596e-4e52-8f87-890fa0e9ae0e" /><br><br>
 
-  <li><code>date</code>: Muestra la fecha y hora del sistema.</li>
+  <li><code>date</code>: Muestra la fecha y hora del sistema.</li><br>
   <img width="75%" alt="image18" src="https://github.com/user-attachments/assets/bb00ff1a-809c-421a-8fa1-6db1e16f305e" /><br><br>
 
   
-  <li><code>ifconfig</code>: Muestra la configuración de las interfaces de red.</li>
+  <li><code>ifconfig</code>: Muestra la configuración de las interfaces de red.</li><br>
   <img width="75%" alt="image7" src="https://github.com/user-attachments/assets/3d88da29-e7b6-4b4c-8d47-1a42e2f524c1" /><br><br>
 
   
-  <li><code>iwconfig</code>: Similar a <code>ifconfig</code>, pero enfocado específicamente a la configuración y estado de interfaces de red inalámbricas (wireless).</li>
+  <li><code>iwconfig</code>: Similar a <code>ifconfig</code>, pero enfocado específicamente a la configuración y estado de interfaces de red inalámbricas (wireless).</li><br>
   <img width="75%" alt="image8" src="https://github.com/user-attachments/assets/07fe87e3-8be0-4310-9f7f-14c7c9d333dc" /><br><br>
 
   
-  <li><code>ping -c &lt;num&gt; &lt;IP/dominio&gt;</code>: Comprueba la conectividad con un equipo.</li>
+  <li><code>ping -c &lt;num&gt; &lt;IP/dominio&gt;</code>: Comprueba la conectividad con un equipo.</li><br>
   <img width="75%" alt="image2" src="https://github.com/user-attachments/assets/37035e48-ea74-4fe7-af55-e2e9a3903af6" /><br><br>
 
   
@@ -226,10 +226,10 @@
 
 <h3>Procesos:</h3>
 <ul>
-  <li><code>ps</code>: Muestra los procesos de la terminal actual.</li>
+  <li><code>ps</code>: Muestra los procesos de la terminal actual.</li><br>
 <img width="75%" alt="image34" src="https://github.com/user-attachments/assets/cb42c41d-2088-4cc1-8d09-175dc3415d9e" /><br><br>
 
-  <li><code>ps -e</code> o <code>ps -ef</code>: Muestra todos los procesos del sistema detalladamente.</li>
+  <li><code>ps -e</code> o <code>ps -ef</code>: Muestra todos los procesos del sistema detalladamente.</li><br>
 <img width="75%" alt="image20" src="https://github.com/user-attachments/assets/7076c6c9-3d60-41ae-9cf8-b6fabe18909d" /><br><br>
 
   
@@ -237,19 +237,19 @@
 
 <h3>Administrador de Paquetes (APT - Debian/Ubuntu):</h3>
 <ul>
-  <li><code>sudo apt-get update</code>: Actualiza la lista de paquetes disponibles.</li>
+  <li><code>sudo apt-get update</code>: Actualiza la lista de paquetes disponibles.</li><br>
   <img width="75%" alt="image3" src="https://github.com/user-attachments/assets/af7f996a-6b3a-44c9-9f99-765c75131594" /><br><br>
 
-  <li><code>apt-cache search &lt;palabra&gt;</code>: Busca paquetes por palabra clave.</li>
+  <li><code>apt-cache search &lt;palabra&gt;</code>: Busca paquetes por palabra clave.</li><br>
   <img width="75%" alt="image17" src="https://github.com/user-attachments/assets/104226a3-117d-4404-bf05-38cdd53d9962" /><br><br>
 
-  <li><code>sudo apt-get install &lt;paquete&gt;</code>: Instala o actualiza un paquete.</li>
+  <li><code>sudo apt-get install &lt;paquete&gt;</code>: Instala o actualiza un paquete.</li><br>
   <img width="75%" alt="image24" src="https://github.com/user-attachments/assets/e324fb6f-412f-48f8-beb6-6276677432ff" /><br><br>
 
-  <li><code>sudo apt-get remove &lt;paquete&gt;</code>: Elimina un paquete (conserva configuraciones).</li>
+  <li><code>sudo apt-get remove &lt;paquete&gt;</code>: Elimina un paquete (conserva configuraciones).</li><br>
   <img width="75%" alt="image4" src="https://github.com/user-attachments/assets/b25cb81a-1874-49f0-8e58-8420de85d7ef" /><br><br>
 
-  <li><code>sudo apt-get purge &lt;paquete&gt;</code>: Elimina un paquete por completo junto con sus configuraciones.</li>
+  <li><code>sudo apt-get purge &lt;paquete&gt;</code>: Elimina un paquete por completo junto con sus configuraciones.</li><br>
   <img width="75%" alt="image6" src="https://github.com/user-attachments/assets/518f2678-36a9-4dd7-ae4f-d3de6fed263a" /><br><br>
 
 </ul>
