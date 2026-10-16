@@ -42,7 +42,6 @@
 
 <p><img width="75%" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/2c1faa26-c3e8-44a8-9e58-8bfbb70382bc" /></p><br><br>
 
-
 <p><code>cd ..</code>: Sube un nivel en el directorio superior.</p>
 
 <p><img width="75%" alt="Code_Generated_Image(1)" src="https://github.com/user-attachments/assets/bb83f0fc-47c7-4d23-b924-c014eee00c09" /></p><br><br>
