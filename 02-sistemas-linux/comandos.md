@@ -183,15 +183,21 @@
 
 <h2 id="filtros-y-grep">7. Filtros y Expresiones Regulares (grep)</h2>
 <p>Busca patrones o líneas coincidentes en archivos.</p>
-<img width="1413" height="202" alt="image25" src="https://github.com/user-attachments/assets/1a125511-7fce-4963-8cd6-05e16fb66304" />
+<img width="75%"  alt="image25" src="https://github.com/user-attachments/assets/1a125511-7fce-4963-8cd6-05e16fb66304" /><br><br>
 
 <ul>
   <li><code>grep 'palabra' archivo</code>: Búsqueda literal.</li>
-  <img width="1345" height="243" alt="image31" src="https://github.com/user-attachments/assets/cf7f7e9b-94a8-4054-8772-fdb521ffb798" />
+  <img width="75%"  alt="image31" src="https://github.com/user-attachments/assets/cf7f7e9b-94a8-4054-8772-fdb521ffb798" /><br><br>
 
   <li><code>grep '^patrón' archivo</code>: Coincide si el patrón está al inicio de la línea.</li>
+  <img width="75%"  alt="image19" src="https://github.com/user-attachments/assets/7950b8fc-2134-4b1b-83bc-ff8fe6dbd2e0" /><br><br>
+
   <li><code>grep 'patrón$' archivo</code>: Coincide si el patrón está al final de la línea.</li>
+  <img width="75%" alt="image44" src="https://github.com/user-attachments/assets/03bcf36d-a614-4834-983f-478bfab0638a" /><br><br>
+
   <li><code>grep -E</code> o <code>egrep</code>: Activa expresiones regulares extendidas.</li>
+  <img width="75%" alt="image44" alt="image29" src="https://github.com/user-attachments/assets/fba757f8-929b-43a1-8ec9-88162e575f13" /><br><br>
+
 </ul>
 
 <h2 id="redes-y-sistema">8. Redes y Sistema</h2>
