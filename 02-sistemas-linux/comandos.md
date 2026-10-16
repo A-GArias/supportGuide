@@ -15,7 +15,7 @@
   <li><a href="#editor-vim">Editor de Texto (Vim/Vi)</a></li>
 </ul>
 
-<h2 id="sintaxis-basica" style="background-color: #0969da; color: white; padding: 5px 10px;">1. Sintaxis Básica</h2>
+<h2 id="sintaxis-basica"><span style="background-color: #0969da;">1. Sintaxis Básica</span></h2>
 <p>La estructura general de los comandos en la interfaz de comandos (CLI) es:</p>
 
 <img width="75%" alt="image42" src="https://github.com/user-attachments/assets/da0eb497-e09f-4901-a4ea-3ea0ca5d4184" /><br><br>
