@@ -15,6 +15,30 @@
   <li><a href="#editor-vim">Editor de Texto (Vim/Vi)</a></li>
 </ul>
 
+
+<svg fill="none" viewBox="0 0 800 100" width="100%" xmlns="http://w3.org">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org">
+      <style>
+        .banner {
+          background: #ff5733; /* TU COLOR DE FONDO AQUÍ */
+          color: white;
+          font-family: -apple-system, sans-serif;
+          font-size: 24px;
+          font-weight: bold;
+          text-align: center;
+          padding: 30px 10px;
+          border-radius: 6px;
+        }
+      </style>
+      <div class="banner">
+        ¡Mi Encabezado con Fondo Personalizado!
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+
 <h2 id="sintaxis-basica"><span style="background-color: #0969da;">1. Sintaxis Básica</span></h2>
 <p>La estructura general de los comandos en la interfaz de comandos (CLI) es:</p>
 
