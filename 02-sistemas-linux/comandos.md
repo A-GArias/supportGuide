@@ -18,7 +18,7 @@
 
 <h2 id="sintaxis-basica"><span style="background-color: #0969da;">1. Sintaxis Básica</h2>
 
-<p>La estructura general de los comandos en la interfaz de comandos (CLI) es:</p>
+<p style="color:red">La estructura general de los comandos en la interfaz de comandos (CLI) es:</p>
 
 <img width="75%" alt="image42" src="https://github.com/user-attachments/assets/da0eb497-e09f-4901-a4ea-3ea0ca5d4184" /><br><br>
 
