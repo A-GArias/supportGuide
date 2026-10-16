@@ -90,9 +90,9 @@
   <li><code>w</code> (Write / Escribir): Permite modificar el archivo o añadir/eliminar archivos en el directorio.</li>
   <li><code>x</code> (Execute / Ejecutar): Permite ejecutar el archivo como proceso o entrar en el directorio.</li>
   <li><code>-</code> : El permiso en esa posición está desactivado.</li>
-</ul>
+</ul><br><br>
 
-<p>Cambiar permisos (<code>chmod</code>): Método simbólico</p><br><br>
+<p>Cambiar permisos (<code>chmod</code>): Método simbólico</p>
 
 <img width="75%" alt="image41" src="https://github.com/user-attachments/assets/cd6b2dc7-abaf-4fac-915f-81d75c06ae00" /><br><br>
 
