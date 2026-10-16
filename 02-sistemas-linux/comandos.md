@@ -29,12 +29,12 @@
 <h2 id="navegacion-y-directorios">2. Navegación y Directorios</h2>
 <p><code>pwd</code>: Muestra la ruta absoluta del directorio actual de trabajo.</p>
 
-<img width="75%" alt="image14" src="https://github.com/user-attachments/assets/799fc4d2-8227-4333-92c8-6b5e6a0379f9" />
+<img width="75%" alt="image14" src="https://github.com/user-attachments/assets/799fc4d2-8227-4333-92c8-6b5e6a0379f9" /><br><br>
 
 <p><code>cd &lt;ruta&gt;</code>: Cambia de directorio.</p>
 <p><code>cd ~</code> o solo <code>cd</code>: Va al directorio personal (home) del usuario.</p>
 
-<img width="75%" alt="image13" src="https://github.com/user-attachments/assets/10a86366-f682-4db7-bf47-9e0625d66508" />
+<img width="75%" alt="image13" src="https://github.com/user-attachments/assets/10a86366-f682-4db7-bf47-9e0625d66508" /><br><br>
 
 <p><code>cd /</code>: Va al directorio raíz (root general del sistema).</p>
 
@@ -43,7 +43,7 @@
 
 <p><code>cd ..</code>: Sube un nivel en el directorio superior.</p>
 
-<p><img width="75%" alt="Code_Generated_Image(1)" src="https://github.com/user-attachments/assets/bb83f0fc-47c7-4d23-b924-c014eee00c09" /></p>
+<p><img width="75%" alt="Code_Generated_Image(1)" src="https://github.com/user-attachments/assets/bb83f0fc-47c7-4d23-b924-c014eee00c09" /></p><br><br>
 
 <h2 id="listado-y-permisos">3. Listado y Permisos de Archivos</h2>
 <p><code>ls</code>: Lista los archivos del directorio.</p>
