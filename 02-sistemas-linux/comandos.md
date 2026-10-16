@@ -13,10 +13,10 @@
   <li><a href="#redes-y-sistema">Redes y Sistema</a></li>
   <li><a href="#procesos-y-paquetes">Procesos y Paquetes (APT)</a></li>
   <li><a href="#editor-vim">Editor de Texto (Vim/Vi)</a></li>
-</ul>
+</ul><br><br>
 
 
-<h2 id="sintaxis-basica"><span style="background-color: #0969da;"><span style="background-color📗">1. Sintaxis Básica</span></h2>
+<h2 id="sintaxis-basica"><span style="background-color: #0969da;">1. Sintaxis Básica</h2>
 
 <p>La estructura general de los comandos en la interfaz de comandos (CLI) es:</p>
 
