@@ -38,8 +38,7 @@
 
 <p><code>cd /</code>: Va al directorio raíz (root general del sistema).</p>
 
-<p><img width="1287" height="234" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/2c1faa26-c3e8-44a8-9e58-8bfbb70382bc" /></p>
-<p><img width="60%" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/2c1faa26-c3e8-44a8-9e58-8bfbb70382bc" /></p>
+<p><img width="75%" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/2c1faa26-c3e8-44a8-9e58-8bfbb70382bc" /></p><br><br>
 
 
 <p><code>cd ..</code>: Sube un nivel en el directorio superior.</p>
