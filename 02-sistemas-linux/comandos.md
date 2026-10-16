@@ -18,7 +18,7 @@
 
 <h2 id="sintaxis-basica"><span style="background-color: #0969da;">1. Sintaxis Básica</h2>
 
-<p style="color:red">La estructura general de los comandos en la interfaz de comandos (CLI) es:</p>
+<p>La estructura general de los comandos en la interfaz de comandos (CLI) es:</p>
 
 <img width="75%" alt="image42" src="https://github.com/user-attachments/assets/da0eb497-e09f-4901-a4ea-3ea0ca5d4184" /><br><br>
 
@@ -203,10 +203,24 @@
 <h2 id="redes-y-sistema">8. Redes y Sistema</h2>
 <ul>
   <li><code>shutdown &lt;hora&gt; ["mensaje"]</code>: Apaga el sistema de forma segura.</li>
+  <img width="1341" height="263" alt="image36" src="https://github.com/user-attachments/assets/19254667-596e-4e52-8f87-890fa0e9ae0e" />
+
   <li><code>date</code>: Muestra la fecha y hora del sistema.</li>
+  <img width="1341" height="243" alt="image18" src="https://github.com/user-attachments/assets/bb00ff1a-809c-421a-8fa1-6db1e16f305e" />
+
+  
   <li><code>ifconfig</code>: Muestra la configuración de las interfaces de red.</li>
+  <img width="1338" height="283" alt="image7" src="https://github.com/user-attachments/assets/3d88da29-e7b6-4b4c-8d47-1a42e2f524c1" />
+
+  
   <li><code>iwconfig</code>: Similar a <code>ifconfig</code>, pero enfocado específicamente a la configuración y estado de interfaces de red inalámbricas (wireless).</li>
+  <img width="1449" height="533" alt="image8" src="https://github.com/user-attachments/assets/07fe87e3-8be0-4310-9f7f-14c7c9d333dc" />
+
+  
   <li><code>ping -c &lt;num&gt; &lt;IP/dominio&gt;</code>: Comprueba la conectividad con un equipo.</li>
+  <img width="1350" height="236" alt="image2" src="https://github.com/user-attachments/assets/37035e48-ea74-4fe7-af55-e2e9a3903af6" />
+
+  
 </ul>
 
 <h2 id="procesos-y-paquetes">9. Procesos y Paquetes (apt)</h2>
