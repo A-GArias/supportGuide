@@ -183,9 +183,12 @@
 
 <h2 id="filtros-y-grep">7. Filtros y Expresiones Regulares (grep)</h2>
 <p>Busca patrones o líneas coincidentes en archivos.</p>
+<img width="1413" height="202" alt="image25" src="https://github.com/user-attachments/assets/1a125511-7fce-4963-8cd6-05e16fb66304" />
 
 <ul>
   <li><code>grep 'palabra' archivo</code>: Búsqueda literal.</li>
+  <img width="1345" height="243" alt="image31" src="https://github.com/user-attachments/assets/cf7f7e9b-94a8-4054-8772-fdb521ffb798" />
+
   <li><code>grep '^patrón' archivo</code>: Coincide si el patrón está al inicio de la línea.</li>
   <li><code>grep 'patrón$' archivo</code>: Coincide si el patrón está al final de la línea.</li>
   <li><code>grep -E</code> o <code>egrep</code>: Activa expresiones regulares extendidas.</li>
