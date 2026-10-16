@@ -228,16 +228,31 @@
 <h3>Procesos:</h3>
 <ul>
   <li><code>ps</code>: Muestra los procesos de la terminal actual.</li>
+<img width="75%" alt="image34" src="https://github.com/user-attachments/assets/cb42c41d-2088-4cc1-8d09-175dc3415d9e" /><br><br>
+
   <li><code>ps -e</code> o <code>ps -ef</code>: Muestra todos los procesos del sistema detalladamente.</li>
+<img width="75%" alt="image20" src="https://github.com/user-attachments/assets/7076c6c9-3d60-41ae-9cf8-b6fabe18909d" /><br><br>
+
+  
 </ul>
 
 <h3>Administrador de Paquetes (APT - Debian/Ubuntu):</h3>
 <ul>
   <li><code>sudo apt-get update</code>: Actualiza la lista de paquetes disponibles.</li>
+  <img width="75%" alt="image3" src="https://github.com/user-attachments/assets/af7f996a-6b3a-44c9-9f99-765c75131594" /><br><br>
+
   <li><code>apt-cache search &lt;palabra&gt;</code>: Busca paquetes por palabra clave.</li>
+  <img width="75%" alt="image17" src="https://github.com/user-attachments/assets/104226a3-117d-4404-bf05-38cdd53d9962" /><br><br>
+
   <li><code>sudo apt-get install &lt;paquete&gt;</code>: Instala o actualiza un paquete.</li>
+  <img width="75%" alt="image24" src="https://github.com/user-attachments/assets/e324fb6f-412f-48f8-beb6-6276677432ff" /><br><br>
+
   <li><code>sudo apt-get remove &lt;paquete&gt;</code>: Elimina un paquete (conserva configuraciones).</li>
+  <img width="75%" alt="image4" src="https://github.com/user-attachments/assets/b25cb81a-1874-49f0-8e58-8420de85d7ef" /><br><br>
+
   <li><code>sudo apt-get purge &lt;paquete&gt;</code>: Elimina un paquete por completo junto con sus configuraciones.</li>
+  <img width="75%" alt="image6" src="https://github.com/user-attachments/assets/518f2678-36a9-4dd7-ae4f-d3de6fed263a" /><br><br>
+
 </ul>
 
 <h2 id="editor-vim">10. Editor de Texto (vim / vi)</h2>
