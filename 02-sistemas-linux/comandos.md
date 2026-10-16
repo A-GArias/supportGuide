@@ -92,7 +92,7 @@
   <li><code>-</code> : El permiso en esa posición está desactivado.</li>
 </ul>
 
-<p>Cambiar permisos (<code>chmod</code>): Método simbólico</p>
+<p>Cambiar permisos (<code>chmod</code>): Método simbólico</p><br><br>
 
 <img width="75%" alt="image41" src="https://github.com/user-attachments/assets/cd6b2dc7-abaf-4fac-915f-81d75c06ae00" /><br><br>
 
