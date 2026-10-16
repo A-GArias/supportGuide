@@ -16,30 +16,9 @@
 </ul>
 
 
-<svg fill="none" viewBox="0 0 800 100" width="100%" xmlns="http://w3.org">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://w3.org">
-      <style>
-        .banner {
-          background: #ff5733; /* TU COLOR DE FONDO AQUÍ */
-          color: white;
-          font-family: -apple-system, sans-serif;
-          font-size: 24px;
-          font-weight: bold;
-          text-align: center;
-          padding: 30px 10px;
-          border-radius: 6px;
-        }
-      </style>
-      <div class="banner">
-        ¡Mi Encabezado con Fondo Personalizado!
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<h2 id="sintaxis-basica"><span style="background-color: #0969da;"></h2>
+<img width="1024" height="40" alt="1  Sintaxis Básica" src="https://github.com/user-attachments/assets/f4a536b8-1c72-4a71-b9cf-e37c7083045f" />
 
-
-<h2 id="sintaxis-basica"><span style="background-color: #0969da;">1. Sintaxis Básica</span></h2>
 <p>La estructura general de los comandos en la interfaz de comandos (CLI) es:</p>
 
 <img width="75%" alt="image42" src="https://github.com/user-attachments/assets/da0eb497-e09f-4901-a4ea-3ea0ca5d4184" /><br><br>
