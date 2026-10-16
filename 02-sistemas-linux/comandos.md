@@ -168,15 +168,15 @@
 
 <p><strong>Ejemplo práctico: Clonar un disco duro entero</strong></p>
 <p>Para clonar un disco duro completo (<code>/dev/sda</code>) a otro (<code>/dev/sdb</code>) sin necesidad de especificar el tamaño de bloque:</p>
-<pre><code>sudo dd if=/dev/sda of=/dev/sdb</code></pre>
 
-<img width="75%" alt="image9" src="https://github.com/user-attachments/assets/289de499-b3a2-4f7a-8ded-3e99cfacca77" />
+
+<img width="75%" alt="image9" src="https://github.com/user-attachments/assets/289de499-b3a2-4f7a-8ded-3e99cfacca77" /><br><br>
 
 
 <p><strong>Ejemplo práctico: Crear un archivo de intercambio (swap) o de tamaño específico lleno de ceros</strong></p>
-<pre><code>sudo dd if=/dev/zero of=/tmp/swapex bs=1M count=50</code></pre>
 
-<img width="75%" alt="image40" src="https://github.com/user-attachments/assets/1a72e2f2-1119-45ba-bef8-b3601eb13163" />
+
+<img width="75%" alt="image40" src="https://github.com/user-attachments/assets/1a72e2f2-1119-45ba-bef8-b3601eb13163" /><br><br>
 
 
 <h2 id="filtros-y-grep">7. Filtros y Expresiones Regulares (grep)</h2>
